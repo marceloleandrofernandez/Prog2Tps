@@ -1,7 +1,7 @@
 ﻿Imports TelefoniaEntidades
 Module LineaTest
     Sub Main()
-        Dim linea As New Linea(376, 4596462)
+        Dim linea As New Linea(376, 4455667)
         Console.WriteLine("Codigo Area: {0}", linea.CodigoArea)
         Console.WriteLine("Numero: {0}", linea.Numero)
         Console.WriteLine("Estado: {0}", linea.Estado)
