@@ -1,0 +1,9 @@
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\bin\Debug\EntidadesViajes.dll
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\bin\Debug\EntidadesViajes.pdb
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\bin\Debug\EntidadesViajes.xml
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.vbprojResolveAssemblyReference.cache
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.Resources.resources
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.vbproj.GenerateResource.Cache
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.dll
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.xml
+c:\users\us3r01\documents\visual studio 2015\Projects\Viajes\EntidadesViajes\obj\Debug\EntidadesViajes.pdb
